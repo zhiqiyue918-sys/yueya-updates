@@ -3,7 +3,7 @@
   "version": "0.8.9",
   "versionCode": 809,
   "minSdk": 26,
-  "apkUrl": "https://github.com/zhiqiyue918-sys/yueya-updates/releases/download/untagged-1ee9b3a1d91397ce00ec/yueya-v0.8.9.apk",
+  "apkUrl": "https://github.com/zhiqiyue918-sys/yueya-updates/releases/download/yueya-v0.8.9/yueya-v0.8.9.apk",
   "sha256": "9d6c352fcf7d9a949f6c37f4c66a591ca7cb69d043e9851871cc320bf21c8706",
   "size": 7993122,
   "notes": "新装空白资料；保留本机数据覆盖升级；自动/手动检查更新；药酒提醒与删除回执修复。"
