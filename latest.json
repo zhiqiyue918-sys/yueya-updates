@@ -1,10 +1,10 @@
 {
   "applicationId": "cn.yueya.life",
-  "version": "0.8.11",
-  "versionCode": 811,
+  "version": "0.8.12",
+  "versionCode": 812,
   "minSdk": 26,
-  "apkUrl": "https://github.com/zhiqiyue918-sys/yueya-updates/releases/download/yueya-v0.8.11/yueya-v0.8.11.apk",
-  "sha256": "b0f9d975f2a2dc23f469467592240c53f879c19da6d0199b2a9dbd2c301adad1",
-  "size": 8043734,
-  "notes": "新增健康底线：食物过敏与不耐受、环境与药物过敏、正在用药、皮肤敏感和长期注意事项。健康底线会参与菜单、菜谱、餐照、首页环境判断和护肤建议；已记录药物与饮酒相关时先在本地提醒。新增餐照识别与确认后一次记账；修复没有饮食记录时把全天热量说成晚餐剩余额度的问题。"
+  "apkUrl": "https://github.com/zhiqiyue918-sys/yueya-updates/releases/download/yueya-v0.8.12/yueya-v0.8.12.apk",
+  "sha256": "7e419fd46d53c910afbed9ad9d61c85fdf194f1f8c86406323f6364158893fe9",
+  "size": 8044894,
+  "notes": "更新改为国内源优先、GitHub回退。国内源使用分类坞发布站的独立/yueya/目录，两个来源都校验应用ID、版本、大小、SHA-256与签名。旧版0.8.11先从GitHub升级；安装0.8.12后，后续更新优先使用国内源。"
 }
